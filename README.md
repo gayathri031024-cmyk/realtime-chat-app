@@ -116,7 +116,6 @@ indicators, and online presence working between "users".
 - ✅ Online/offline user status (presence tracked per socket, broadcast on connect/disconnect)
 - ✅ Message timestamps (stored server-side, rendered client-side)
 - ✅ Persistence via SQLite (`better-sqlite3`, file at `backend/data/chat.db`)
-- ⬜ Deployment — not deployed as part of this submission; see below for how to do it.
 
 ## 5. Deploying (Render/Railway example)
 
